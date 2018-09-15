@@ -55,5 +55,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[kennethmgalang@gmail.com]
-(mailto:kennethmgalang@gmail.com)
+[kennethmgalang@gmail.com](mailto:kennethmgalang@gmail.com)
