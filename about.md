@@ -4,18 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+My name is Kenneth Galang, and welcome to my website!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+I started programming when I was a junior at Lowell High School, where I started with javascript. With javascript, I learned the basics of programming, while making some simple art and animations.
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I proceeded to continue to learn programming by taking the AP Computer Science class taught at my school. In this class, I learned java, and some html and css. I made some cool projects on github like Asteroids, Minesweeper, and others that you can find on the projects tab above.
+
+Right now, I am currently a student at City College of San Francisco, and learning C++.
+
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* CCSF (2017-Present)
+* Lowell High School (2013-2017)
 
+<!
 ## Roles
 
 Founder, ABC Organisation
@@ -48,8 +51,9 @@ Founder, ABC Organisation
 * [**This is my third achievement**](#) 
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+>
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[kennethmgalang@gmail.com]
+(mailto:kennethmgalang@gmail.com)
