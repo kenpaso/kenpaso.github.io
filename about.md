@@ -18,7 +18,7 @@ Right now, I am currently a student at City College of San Francisco, and learni
 * CCSF (2017-Present)
 * Lowell High School (2013-2017)
 
-<!
+<!--
 ## Roles
 
 Founder, ABC Organisation
@@ -51,7 +51,7 @@ Founder, ABC Organisation
 * [**This is my third achievement**](#) 
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
->
+-->
 
 ## Contact me
 
