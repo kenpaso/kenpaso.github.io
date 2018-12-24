@@ -1,6 +1,6 @@
 ---
 layout: post
-title: website up | first post
+title: Hello World
 author: Kenneth Galang
 ---
 
