@@ -6,8 +6,7 @@ author: kenny g
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
 
-<img src="avatar.jpg" alt="me">
-
+<img src="avatar.jpg" alt="display this" width=200 height=200>
 ## The Eternal Lorem Ipsum? 
 -----
 

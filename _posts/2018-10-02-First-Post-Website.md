@@ -1,6 +1,6 @@
 ---
 layout: post
-title: website up | FIRST POST
+title: website up | first post
 author: Kenneth Galang
 ---
 
