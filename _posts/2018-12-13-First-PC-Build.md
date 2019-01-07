@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Built my First PC
+title: Built My First PC
 author: Kenneth Galang
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+Here is the story on how I built my first PC.
 
 
 ## The Eternal Lorem Ipsum? 
