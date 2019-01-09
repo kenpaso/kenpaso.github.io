@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Lowell Projects](https://kenpaso.github.io/OriginalDesign/) 
+### [Lowell Projects](https://kenpaso.github.io/LowellProjects/) 
 Java Projects that I did in High School.
 
 ***
@@ -32,4 +32,4 @@ Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulu
 
 ## Contact me
 
-[kennethmgalang.com](mailto:kennethmgalang@gmail.com)
+[kennethmgalang@gmail.com](mailto:kennethmgalang@gmail.com)
