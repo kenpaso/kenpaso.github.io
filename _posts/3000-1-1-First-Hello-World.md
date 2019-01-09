@@ -4,7 +4,7 @@ title: Hello World
 author: Kenneth Galang
 ---
 
- Welcome to my Github.
+ Welcome to my Github Page!
  My website is finally up and running.
 
 ## What is this blog for? 
