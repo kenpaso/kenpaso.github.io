@@ -8,7 +8,7 @@ My name is Kenneth Galang, and welcome to my website!
 
 I started programming when I was a junior at Lowell High School, where I started with javascript. With javascript, I learned the basics of programming, while making some simple art and animations.
 
-I proceeded to continue to learn programming by taking the AP Computer Science class taught at my school. In this class, I learned java, and some html and css. I made some cool projects on github like Asteroids, Minesweeper, and others that you can here(https://kenpaso.github.io/LowellProjects/).
+I proceeded to continue to learn programming by taking the AP Computer Science class taught at my school. In this class, I learned java, and some html and css. I made some cool projects on github like Asteroids, Minesweeper, and others that you can find in the projects tab above.
 
 Right now, I am currently a student at City College of San Francisco, and learning C++.
 
