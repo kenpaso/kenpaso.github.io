@@ -18,12 +18,18 @@ I built my computer because my HP Envy laptop was running slow. The laptop was t
 With the help of family and resources like Reddit and PCPartPicker, I was able to pick out my parts within my budget. What also help was that I bought everything around Black Friday, and everything was on sale. I got even more value for great components.
 
 ## Build Specifications
-CPU: Ryzen 7 2700x
+CPU: Ryzen 7 2700x 
+
 GPU: Nvidia 1070 TI
+
 Motherboard: MSI-X470 Gaming Plus
+
 Memory: G. Skill-Ripjaws V Series 16GB DDR4-3000
+
 Storage: 2x Samsung Evo 500GB SSD
+
 Case: Fractal Meshify Dark TG ATX Mid
+
 PSU: EVGA- SuperNOVA G3 750 W 80+ Fully-Modular
 
 Accessories:
