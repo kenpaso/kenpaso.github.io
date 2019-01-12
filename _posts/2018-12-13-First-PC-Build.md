@@ -33,9 +33,13 @@ Case: Fractal Meshify Dark TG ATX Mid
 PSU: EVGA- SuperNOVA G3 750 W 80+ Fully-Modular
 
 Accessories:
+
 -MSI Optix MAG24C 144Hz Monitor
+
 -Logitech G Pro Bundle
+
 -Sony Wireless WH-1000XM2 Headphones
+
 -Blue Yeti Blackout Mic
 
 ## The Process
