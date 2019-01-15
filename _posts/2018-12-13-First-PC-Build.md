@@ -10,7 +10,7 @@ Here is the story on how I built my first PC.
 ## Planning the Build 
 -----
 
-I built my computer because my HP Envy laptop was running slow. The laptop was turning five, so I needed a new system. My choices were a MacBook Pro or a custom PC. I chose to built my PC because it was cheaper, had more capabilities, and I was able to play games with friends and family. The reason I wanted a MacBook Pro was mainly for portability, but I decided to just build a pc and just used my old laptop.
+I built my computer because my HP Envy laptop was running slow. The laptop was turning five, so I needed a new system. My choices were a MacBook Pro or a custom PC. I chose to build my PC because it was cheaper, had more capabilities, and I was able to play games with friends and family. The reason I wanted a MacBook Pro was mainly for portability, but I decided to just build a pc and just used my old laptop.
 
 ## Picking Parts
 -----
@@ -40,7 +40,7 @@ Accessories:
 
 -Sony Wireless WH-1000XM2 Headphones
 
--Blue Yeti Blackout Mic
+-Blue Yeti Blackout Microphone
 
 ## The Process
 -----
